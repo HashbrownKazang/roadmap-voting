@@ -10,12 +10,12 @@ export default function Footer() {
     >
       <p>
         <a
-          href="https://github.com/upstash/roadmap"
+          href="https://github.com/HashbrownKazang/roadmap-voting"
           target="_blank"
           rel="noopener noreferrer"
           className="text-dimmed"
         >
-          Create your own Roadmap Voting App with Upstash and Redis.
+          spuntentertainment2023.
         </a>
       </p>
 

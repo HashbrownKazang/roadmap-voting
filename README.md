@@ -1,3 +1,11 @@
+# spuntentertainment2023
+
+This is a spuntentertainment production so you already know it is a shit show
+
+We are not sorry, at all
+
+If you are interested in copying what we did here below you can find the original readme from @upstash/roadmap
+
 # Roadmap Voting App
 
 <img src="https://github.com/upstash/roadmap/blob/main/public/doc/app.png" width="100%">
